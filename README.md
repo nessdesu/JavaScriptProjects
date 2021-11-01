@@ -1,2 +1,7 @@
 # JavaScriptProjects
-JavaScript projects
+
+🟥 JavaScript Proje Örnekleri 
+
+---
+
+1️⃣ JavaScript Saat ve Karşılama
